@@ -1,7 +1,7 @@
 ---
 title: "CV"
 meta_title: "CV"
-description: "Toto je moje CV v PDF"
+description: "This is my CV in PDF"
 image: "/images/avatar.png"
 draft: false
 ---

@@ -5,7 +5,7 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "O mne",
       "url": "/about"
     },
     {
@@ -17,11 +17,11 @@
       "url": "/blog"
     },
     {
-      "name": "Fav products",
+      "name": "Obľúbené produkty",
       "url": "/fav-products"
     },
     {
-      "name": "Contact",
+      "name": "Kontakt",
       "url": "/contact"
     },
     {

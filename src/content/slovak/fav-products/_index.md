@@ -1,7 +1,7 @@
 ---
-title: "CV"
-meta_title: "CV"
-description: "Toto je moje CV v PDF"
+title: "Obľúbené produkty"
+meta_title: "obľúbené pridukty"
+description: "Toto je zoznam mojich obľúbených projektov"
 image: "/images/avatar.png"
 draft: false
 ---
